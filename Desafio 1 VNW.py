@@ -73,8 +73,8 @@
 # num = double(int(input("Inserir número que deseja dobrar: ")))
 
 #------------ MISSÃO 10 ------------#
-def contador(n):
- num = len(n)
- print("O nome", n ,"tem", num, "letras!")
+# def contador(n):
+#  num = len(n)
+#  print("O nome", n ,"tem", num, "letras!")
 
-nome = contador(input("Insira o nome que deseja saber o número de letras que ele contém: "))
+# nome = contador(input("Insira o nome que deseja saber o número de letras que ele contém: "))
